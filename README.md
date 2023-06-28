@@ -9,8 +9,5 @@ Neste projeto tive a oportunidade de praticar HTML, CSS e JavaScript, utilizando
 
 🌱🌱🌱
 
-Fiz o deploy desse jogo no Vercel e você pode jogar clicando [![aqui](https://icons8.com.br/icon/GdTfmvALOWwB/apple-arcade)](https://js-reconhecimento-voz-one.vercel.app)]
+Fiz o deploy desse jogo no Vercel e você pode jogar clicando [aqui 🎮](https://js-reconhecimento-voz-one.vercel.app)
 
-
-
-![myHouse](https://icons8.com.br/icon/JB2RwaTQ6jZ2/casa-stark)
